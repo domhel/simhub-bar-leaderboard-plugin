@@ -1,3 +1,5 @@
+[Demo on YouTube](https://www.youtube.com/watch?v=Ag106QI_yhw)
+
 ## Features
 - SimHub leaderboard in a progress bar style
 - See who is fighting
